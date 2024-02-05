@@ -1,0 +1,22 @@
+[
+    {"marca":"Apple","modelo":"MacBook Pro","tipo":"LAPTOP","cantidad":87},
+    {"marca":"Lenovo","modelo":"ThinkPad X1 Carbon","tipo":"LAPTOP","cantidad":54},
+    {"marca":"Samsung","modelo":"Galaxy S21","tipo":"TELEFONO","cantidad":72},
+    {"marca":"Sony","modelo":"Bravia X900H","tipo":"TELEVISOR","cantidad":35},
+    {"marca":"LG","modelo":"Gram 17","tipo":"LAPTOP","cantidad":63},
+    {"marca":"HP","modelo":"Pavilion x360","tipo":"LAPTOP","cantidad":49},
+    {"marca":"Dell","modelo":"XPS 13","tipo":"LAPTOP","cantidad":91},
+    {"marca":"Sony","modelo":"Alpha A7 III","tipo":"CAMARA","cantidad":78},
+    {"marca":"Samsung","modelo":"Galaxy Tab S7","tipo":"TABLET","cantidad":42},
+    {"marca":"Apple","modelo":"iPhone 12 Pro","tipo":"TELEFONO","cantidad":66},
+    {"marca":"Lenovo","modelo":"IdeaPad 5","tipo":"LAPTOP","cantidad":57},
+    {"marca":"Sony","modelo":"PlayStation 5","tipo":"CONSOLA","cantidad":23},
+    {"marca":"Samsung","modelo":"QLED Q80T","tipo":"TELEVISOR","cantidad":60},
+    {"marca":"LG","modelo":"NanoCell 85","tipo":"TELEVISOR","cantidad":45},
+    {"marca":"HP","modelo":"ENVY x360","tipo":"LAPTOP","cantidad":88},
+    {"marca":"Dell","modelo":"Inspiron 15","tipo":"LAPTOP","cantidad":71},
+    {"marca":"Sony","modelo":"Cyber-shot RX100 VII","tipo":"CAMARA","cantidad":95},
+    {"marca":"Apple","modelo":"iPad Air","tipo":"TABLET","cantidad":29},
+    {"marca":"Lenovo","modelo":"ThinkPad L14","tipo":"LAPTOP","cantidad":50},
+    {"marca":"Samsung","modelo":"Galaxy Watch 4","tipo":"RELOJ","cantidad":37}
+  ]

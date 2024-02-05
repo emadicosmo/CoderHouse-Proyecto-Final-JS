@@ -1,0 +1,75 @@
+body {
+    background-color: #262626;
+    color: #CCCCCC;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.deepshadow {
+    text-shadow: 2px 2px 4px #574949;
+    color: #CCCCCC;
+    margin-top: 20px;
+}
+
+.container {
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.form-control {
+    background-color: whitesmoke;
+    border: 1px solid #666666;
+    outline: none; /* Eliminar el sombreado al enfocar */
+}
+
+.btn{
+    background-color: #FF5733;
+    color: #FFFFFF;
+    border: none;
+    justify-content: center;
+}
+.btn:hover {
+    background-color: #2e2220;
+    color: #FFFFFF;
+}
+.content-section {
+    margin-top: 20px;
+}
+#filtroTipo,
+#tablaProductos {
+    background-color: #444444;
+    color: #CCCCCC;
+    border: 1px solid #666666;
+    width: 100%;
+}
+
+#filtroTipo {
+    width: 100%;
+    background-color: #333333;
+    color: #CCCCCC;
+    border: 1px solid #555555;
+}
+
+#tablaProductos th,
+#tablaProductos td {
+    border-bottom: 1px solid #666666;
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+}
+
+#tablaProductos th {
+    background-color: #333333;
+    color: #CCCCCC;
+}
+
+#tablaProductos td {
+    background-color: #333333;
+}
+
+.form-group:last-child {
+    margin-top: 10px;
+}
