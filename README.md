@@ -1,0 +1,2 @@
+-- En este curso se vieron conceptos basicos de JS
+-- Para dicho proyecto se escogio un sistema de control de stocks para un deposito o caja fuerte, donde se pueden ingresar elementos y sacarlos respectivamente, partiendo de un JSON con informacion almacenada previamente.
